@@ -1,1 +1,4 @@
-README
+### Preview
+
+![Resume Screenshot](/main.png)
+
